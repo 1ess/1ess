@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/1ess/1ess/blob/master/icons/header_.png)
+![](https://cdn.jsdelivr.net/gh/1ess/cdn/icons/header_.png)
 
 ### My name is Stephen Chang, a Full Stack Developer.
 ### 🔭 Currently working a full time job using technologies such as:
