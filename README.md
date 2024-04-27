@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://cdn.jsdelivr.net/gh/1ess/cdn/icons/header_.png)
+<img src="https://cdn-fawn.vercel.app/icons/Python.png" style="float:left;display:inline-block" width="33%" alt="">
 
 ### My name is Stephen Chang, a Full Stack Developer.
 ### 🔭 Currently working a full time job using technologies such as:
