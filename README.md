@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://cdn.zhangdd.tech/icons/stickers.svg" alt="">
+<img src="https://cdn.zhangdd.tech/icons/stickers.png" alt="">
 
 ### My name is Stephen Chang, a father and full stack developer.
 ### 🔭 Currently working a full time job using technologies such as:
