@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://cdn-fawn.vercel.app/icons/Python.png" style="float:left;display:inline-block" width="33%" alt="">
+<img src="https://cdn.zhangdd.tech/icons/stickers.svg" alt="">
 
 ### My name is Stephen Chang, a father and full stack developer.
 ### 🔭 Currently working a full time job using technologies such as:
